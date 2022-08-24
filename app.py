@@ -16,6 +16,7 @@ from forms import *
 from datetime import datetime
 from flask_migrate import Migrate
 
+
 #----------------------------------------------------------------------------#
 # App Config.
 #----------------------------------------------------------------------------#
